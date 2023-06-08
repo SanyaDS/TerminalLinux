@@ -1,4 +1,4 @@
-Homework 2 terminal (GitBash) commands.
+Homework 2 Terminal (GitBash) commands.
 
 1. Сделать папку dir_1.
 2. Зайти в папку dir_1.
