@@ -39,12 +39,12 @@ Homework 1 Terminal (GitBash) commands.
 12. Выйти из папки на уровень выше.  
 `$ cd ../`
 13. Переместить любые 2 файла, которые вы создали, в любую другую папку.  
-`cd papka_3`  
-`mv txt1.txt papka_1`  
-`mv txt2.txt papka_1`
+`$ cd papka_3`  
+`$ mv txt1.txt papka_1`  
+`$ mv txt2.txt papka_1`
 14. Скопировать любые 2 файла, которые вы создали, в любую другую папку.  
-`cp js1.json papka_2`  
-`cp js2.json papka_2`
+`$ cp js1.json papka_2`  
+`$ cp js2.json papka_2`
 15. Найти файл по имени.  
 `$ find -name txt1.txt # "-name" - поиск по имени.`
 16. Просмотреть содержимое в реальном времени (команда grep) изучите как она работает.  
