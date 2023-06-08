@@ -1,4 +1,4 @@
-Homework 1 terminal (GitBash) commands.
+Homework 1 Terminal (GitBash) commands.
 
 1. Посмотреть где я.  
 `$ pwd`
